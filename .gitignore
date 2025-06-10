@@ -1,0 +1,9 @@
+venv/
+artifacts/raw/
+artifacts/models/
+notebook/
+logs/
+MLOPS_project4.egg-info/
+tensorboard_logs/tensorboard_logs/20250610-062919/
+tensorboard_logs/tensorboard_logs/20250610-065121/
+

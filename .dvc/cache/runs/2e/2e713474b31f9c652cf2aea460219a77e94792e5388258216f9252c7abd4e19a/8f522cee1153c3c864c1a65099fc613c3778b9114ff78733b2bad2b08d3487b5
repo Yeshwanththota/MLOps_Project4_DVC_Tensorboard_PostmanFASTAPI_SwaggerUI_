@@ -1,0 +1,16 @@
+cmd: python src/model_training.py
+deps:
+- path: artifacts/raw/
+  hash: md5
+  md5: adfb9f01a07ced01f71d76b2cc3d7908.dir
+  size: 2442191
+  nfiles: 666
+- path: src/model_training.py
+  hash: md5
+  md5: 22480efe9396e29746a5a7dcb0161791
+  size: 5095
+outs:
+- path: artifacts/models/fasterrcnn.pth
+  hash: md5
+  md5: 92b1bf5335c16a6b3ac73d142313efc9
+  size: 165724408
