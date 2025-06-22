@@ -5,7 +5,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-** Go to MLops_project4 folder for outputs**
+**Summary:** Focused on deep learning workflows using PyTorch for model training and TensorBoard for experiment tracking. Built a custom training pipeline with DVC and exposed model inference via a FastAPI endpoint, tested with both Swagger UI and Postman.
+
+**Go to MLops_project4 folder for outputs**
 
 Highlights:
 1.	Use of pytorch.
